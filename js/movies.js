@@ -39,7 +39,7 @@ function agregarAlgo(e) {
     
     listaLibro.appendChild(libros);
     libros.appendChild(info);
-    imagen.src = 'img/personal.png';
+    imagen.src = 'img/movie.png';
     info.appendChild(imagen);
     pLibro.innerText = textoLista;
     info.appendChild(pLibro);
